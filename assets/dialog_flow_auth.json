@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "novatoreschatbot-w9b9",
+  "private_key_id": "d6fd12d48edbe4446fc3a8f891248b9417c58d4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdevNKo4ON5JFW\n+OIF1cO/vDR98eBcUFm1yUwDdB93ZWFw1YdzvWNvH5RPRIf1laniuiiWpOcgBIZs\n239d4TdZoI075GFsZ0ENUQdtdwly4iHMV4hCf+k9X4zVUQOjFwxYj/zrC1XGY3ky\nttEfZTSxwWkLbNiIldbe9qH90IEkvk6/XULjmcf+yVpGh9G4LB8mHRXFsGmQEG79\nCluUFvjn0HfTepZLjkNVFbMfxsmdxVlDWHpOtYyzW34N7Qj35EvUPd7VJLIL4Ljv\nYpF+ZrxgMEqr9k2x8j0Vs+QWhvv7C4Oy4TNXnOLW03eWuiF4C3BsROAls0A+NopB\nprFOkbA/AgMBAAECggEAAYuD2p+aYX6DLwlMa6r/6GdT3Gm4CBzStgxsmHznt/RV\nQi1oelELZQaM3ngFahv8U+W64RYkZe+cz8dA3l2dqQ/lfFH4W1e7DJs7QzMN4Kcd\ngj3oEu1ZKgGadhB7HIOiz+lX49HaltLce73qZol/sm+9dQQc3JMNrSoo8MrSuSK2\nulDp7kpGacMdjUATEiwW0rnZQ46Nx087TR/ZMrg+qkKWeZQE21s0fEVZygA3aYYP\nkBvu4YggJCkUSzYxoxV0tvm2NhndQc/YH6uXJg6t5etUq43Km6FooMrdqWJjaAP9\nnpCnkcy8SblHWymjQpRGjY3KiM1YKzmRQh1AKKSQFQKBgQDyf+17v77ep1jCpRbf\n3zHPhusUFSKb5AhnIcL91AdboD2PE4rYBsI+0JlmshRRC8KP+B0VFoZYnxHp0H3h\nYBiu0nI4MSuSKSq1vQfZD4IeEGDxBzuReeBTrupW4fBl8mUN/1dJgpXt63+PBWuj\nVstF0fdvG3YW8BdQAS2N5pTaswKBgQDpz3TdtGYjF06hsSSb2ONa1Ns3f/BDh3De\nr5xNGYBrcH8tuEl34Cd5kJ3c++05KMBhmqgg7DYbL+Hqr5TxriRjXlM+9s51pi1q\naOzJnb839/P6a3KAcG5ZSHV9A0hmlVqZ+ZF9sKUZbvoU7nOuQly+h9FD6P0Pmd2g\niA0ZA1lKRQKBgCXZa8K14d+0tPjkdZaJqqeeglCHH/i+9cTLEzk0/9UARLtxLGmd\nXHIbcuYBg4RG1p5L9pYVBvEMGuqonQ0xR4j51dQJcKiGfmERWQk7D28L1WWpYFXL\ndQT6tx7KcxAmbjlqEkCp/ia9bBJxoSREZsPGCt2vppXb8XeOR4Lva2pbAoGBAIKy\nHqeXochXzPKBbO9ZC63IcknR0GJPIX65N2u5p5lnJxBNhXPm7un7NuNCR9a9utxU\ncUsF/zCvUV+4ik+WgmyxW2NE3x/Qpm5m/IWvEiadCdqfmT/GmUh7QoGBBkWhkyWi\n5fsWdROEf3KX4D42hlVS4l1Nrbe80LBdnMSwpIbpAoGBAIdh7yEVsPFtRTuWmmkh\nZJnpnhU1XTSCizyX8ngZfEA4bBbHJJ+1i8UqnVsBpoiOJ1hNPzeD3JFbHBrCVjlD\ngq02dR+Yd34OHEkOdSzk0MGWBHgKJKrGyieKxPqQfpbpixJONEgVxfVqBCXzUzOe\ndfdkVWFmBIdd+WJrpQ6MKiPn\n-----END PRIVATE KEY-----\n",
+  "client_email": "novatores@novatoreschatbot-w9b9.iam.gserviceaccount.com",
+  "client_id": "112103590061880240323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/novatores%40novatoreschatbot-w9b9.iam.gserviceaccount.com"
+}
